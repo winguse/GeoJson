@@ -1,0 +1,447 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20170407T075714+0800",
+      "endTime" : "20170407T081503+0800",
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20170407T075714+0800",
+        "endTime" : "20170407T081503+0800",
+        "duration" : 1069.0,
+        "distance" : 1137.0,
+        "steps" : 1463,
+        "calories" : 56
+      } ],
+      "lastUpdate" : "20170407T003129Z",
+      "date" : "20170407"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20170407T081914+0800",
+      "endTime" : "20170407T082157+0800",
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20170407T081914+0800",
+        "endTime" : "20170407T082157+0800",
+        "duration" : 163.0,
+        "distance" : 204.0,
+        "steps" : 266,
+        "calories" : 10
+      } ],
+      "lastUpdate" : "20170407T014339Z",
+      "date" : "20170407"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20170407T084831+0800",
+      "endTime" : "20170407T100652+0800",
+      "activities" : [ {
+        "activity" : "cycling",
+        "group" : "cycling",
+        "manual" : false,
+        "startTime" : "20170407T084831+0800",
+        "endTime" : "20170407T100652+0800",
+        "duration" : 4701.0,
+        "distance" : 9205.0,
+        "calories" : 225
+      } ],
+      "lastUpdate" : "20170407T043844Z",
+      "date" : "20170407"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20170407T101152+0800",
+      "endTime" : "20170407T110555+0800",
+      "activities" : [ {
+        "activity" : "cycling",
+        "group" : "cycling",
+        "manual" : false,
+        "startTime" : "20170407T101152+0800",
+        "endTime" : "20170407T110555+0800",
+        "duration" : 3243.0,
+        "distance" : 5579.0,
+        "calories" : 139
+      } ],
+      "lastUpdate" : "20170407T043811Z",
+      "date" : "20170407"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20170407T111025+0800",
+      "endTime" : "20170407T111936+0800",
+      "activities" : [ {
+        "activity" : "cycling",
+        "group" : "cycling",
+        "manual" : false,
+        "startTime" : "20170407T111025+0800",
+        "endTime" : "20170407T111936+0800",
+        "duration" : 551.0,
+        "distance" : 958.0,
+        "calories" : 24
+      } ],
+      "lastUpdate" : "20170407T043819Z",
+      "date" : "20170407"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20170407T112452+0800",
+      "endTime" : "20170407T114809+0800",
+      "activities" : [ {
+        "activity" : "cycling",
+        "group" : "cycling",
+        "manual" : false,
+        "startTime" : "20170407T112452+0800",
+        "endTime" : "20170407T114809+0800",
+        "duration" : 1397.0,
+        "distance" : 2630.0,
+        "calories" : 65
+      } ],
+      "lastUpdate" : "20170407T043829Z",
+      "date" : "20170407"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20170407T115308+0800",
+      "endTime" : "20170407T123520+0800",
+      "activities" : [ {
+        "activity" : "cycling",
+        "group" : "cycling",
+        "manual" : false,
+        "startTime" : "20170407T115308+0800",
+        "endTime" : "20170407T123520+0800",
+        "duration" : 2532.0,
+        "distance" : 6480.0,
+        "calories" : 152
+      } ],
+      "lastUpdate" : "20170407T044551Z",
+      "date" : "20170407"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20170407T131824+0800",
+      "endTime" : "20170407T135208+0800",
+      "activities" : [ {
+        "activity" : "cycling",
+        "group" : "cycling",
+        "manual" : false,
+        "startTime" : "20170407T131824+0800",
+        "endTime" : "20170407T135208+0800",
+        "duration" : 2024.0,
+        "distance" : 4806.0,
+        "calories" : 114
+      } ],
+      "lastUpdate" : "20170407T093756Z",
+      "date" : "20170407"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20170407T140503+0800",
+      "endTime" : "20170407T143507+0800",
+      "activities" : [ {
+        "activity" : "cycling",
+        "group" : "cycling",
+        "manual" : false,
+        "startTime" : "20170407T140503+0800",
+        "endTime" : "20170407T143507+0800",
+        "duration" : 1804.0,
+        "distance" : 6076.0,
+        "calories" : 138
+      } ],
+      "lastUpdate" : "20170407T093801Z",
+      "date" : "20170407"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20170407T144022+0800",
+      "endTime" : "20170407T150825+0800",
+      "activities" : [ {
+        "activity" : "cycling",
+        "group" : "cycling",
+        "manual" : false,
+        "startTime" : "20170407T144022+0800",
+        "endTime" : "20170407T150825+0800",
+        "duration" : 1683.0,
+        "distance" : 3994.0,
+        "calories" : 95
+      } ],
+      "lastUpdate" : "20170407T093735Z",
+      "date" : "20170407"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20170407T151049+0800",
+      "endTime" : "20170407T151259+0800",
+      "activities" : [ {
+        "activity" : "cycling",
+        "group" : "cycling",
+        "manual" : false,
+        "startTime" : "20170407T151049+0800",
+        "endTime" : "20170407T151259+0800",
+        "duration" : 130.0,
+        "distance" : 236.0,
+        "calories" : 6
+      } ],
+      "lastUpdate" : "20170407T093823Z",
+      "date" : "20170407"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20170407T153355+0800",
+      "endTime" : "20170407T154221+0800",
+      "activities" : [ {
+        "activity" : "cycling",
+        "group" : "cycling",
+        "manual" : false,
+        "startTime" : "20170407T153355+0800",
+        "endTime" : "20170407T154221+0800",
+        "duration" : 506.0,
+        "distance" : 1607.0,
+        "calories" : 37
+      } ],
+      "lastUpdate" : "20170407T082330Z",
+      "date" : "20170407"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20170407T154521+0800",
+      "endTime" : "20170407T161011+0800",
+      "activities" : [ {
+        "activity" : "cycling",
+        "group" : "cycling",
+        "manual" : false,
+        "startTime" : "20170407T154521+0800",
+        "endTime" : "20170407T161011+0800",
+        "duration" : 1490.0,
+        "distance" : 3891.0,
+        "calories" : 91
+      } ],
+      "lastUpdate" : "20170407T082330Z",
+      "date" : "20170407"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20170407T161530+0800",
+      "endTime" : "20170407T165721+0800",
+      "activities" : [ {
+        "activity" : "cycling",
+        "group" : "cycling",
+        "manual" : false,
+        "startTime" : "20170407T161530+0800",
+        "endTime" : "20170407T165721+0800",
+        "duration" : 2511.0,
+        "distance" : 7703.0,
+        "calories" : 176
+      } ],
+      "lastUpdate" : "20170407T093827Z",
+      "date" : "20170407"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20170407T170149+0800",
+      "endTime" : "20170407T173353+0800",
+      "activities" : [ {
+        "activity" : "cycling",
+        "group" : "cycling",
+        "manual" : false,
+        "startTime" : "20170407T170149+0800",
+        "endTime" : "20170407T173353+0800",
+        "duration" : 1924.0,
+        "distance" : 4998.0,
+        "calories" : 117
+      } ],
+      "lastUpdate" : "20170407T093942Z",
+      "date" : "20170407"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20170407T173618+0800",
+      "endTime" : "20170407T174101+0800",
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20170407T173618+0800",
+        "endTime" : "20170407T174101+0800",
+        "duration" : 283.0,
+        "distance" : 238.0,
+        "steps" : 401,
+        "calories" : 12
+      } ],
+      "lastUpdate" : "20170407T111033Z",
+      "date" : "20170407"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20170407T195343+0800",
+      "endTime" : "20170407T195746+0800",
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20170407T195343+0800",
+        "endTime" : "20170407T195745+0800",
+        "duration" : 242.0,
+        "distance" : 191.0,
+        "steps" : 349,
+        "calories" : 9
+      } ],
+      "lastUpdate" : "20170407T124230Z",
+      "date" : "20170407"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20170407T203818+0800",
+      "endTime" : "20170407T205441+0800",
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20170407T203818+0800",
+        "endTime" : "20170407T205440+0800",
+        "duration" : 982.0,
+        "distance" : 853.0,
+        "steps" : 1271,
+        "calories" : 42
+      } ],
+      "lastUpdate" : "20170407T131632Z",
+      "date" : "20170407"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20170407T222157+0800",
+      "endTime" : "20170407T223406+0800",
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20170407T222157+0800",
+        "endTime" : "20170407T223406+0800",
+        "duration" : 729.0,
+        "distance" : 871.0,
+        "steps" : 1174,
+        "calories" : 43
+      } ],
+      "lastUpdate" : "20170407T144651Z",
+      "date" : "20170407"
+    }
+  } ]
+}
