@@ -1,447 +1,824 @@
 {
-  "type" : "FeatureCollection",
-  "features" : [ {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "MultiLineString",
-      "coordinates" : [ [ ] ]
-    },
-    "properties" : {
-      "type" : "move",
-      "startTime" : "20170407T075714+0800",
-      "endTime" : "20170407T081503+0800",
-      "activities" : [ {
-        "activity" : "walking",
-        "group" : "walking",
-        "manual" : false,
-        "startTime" : "20170407T075714+0800",
-        "endTime" : "20170407T081503+0800",
-        "duration" : 1069.0,
-        "distance" : 1137.0,
-        "steps" : 1463,
-        "calories" : 56
-      } ],
-      "lastUpdate" : "20170407T003129Z",
-      "date" : "20170407"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "MultiLineString",
-      "coordinates" : [ [ ] ]
-    },
-    "properties" : {
-      "type" : "move",
-      "startTime" : "20170407T081914+0800",
-      "endTime" : "20170407T082157+0800",
-      "activities" : [ {
-        "activity" : "walking",
-        "group" : "walking",
-        "manual" : false,
-        "startTime" : "20170407T081914+0800",
-        "endTime" : "20170407T082157+0800",
-        "duration" : 163.0,
-        "distance" : 204.0,
-        "steps" : 266,
-        "calories" : 10
-      } ],
-      "lastUpdate" : "20170407T014339Z",
-      "date" : "20170407"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "MultiLineString",
-      "coordinates" : [ [ ] ]
-    },
-    "properties" : {
-      "type" : "move",
-      "startTime" : "20170407T084831+0800",
-      "endTime" : "20170407T100652+0800",
-      "activities" : [ {
-        "activity" : "cycling",
-        "group" : "cycling",
-        "manual" : false,
-        "startTime" : "20170407T084831+0800",
-        "endTime" : "20170407T100652+0800",
-        "duration" : 4701.0,
-        "distance" : 9205.0,
-        "calories" : 225
-      } ],
-      "lastUpdate" : "20170407T043844Z",
-      "date" : "20170407"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "MultiLineString",
-      "coordinates" : [ [ ] ]
-    },
-    "properties" : {
-      "type" : "move",
-      "startTime" : "20170407T101152+0800",
-      "endTime" : "20170407T110555+0800",
-      "activities" : [ {
-        "activity" : "cycling",
-        "group" : "cycling",
-        "manual" : false,
-        "startTime" : "20170407T101152+0800",
-        "endTime" : "20170407T110555+0800",
-        "duration" : 3243.0,
-        "distance" : 5579.0,
-        "calories" : 139
-      } ],
-      "lastUpdate" : "20170407T043811Z",
-      "date" : "20170407"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "MultiLineString",
-      "coordinates" : [ [ ] ]
-    },
-    "properties" : {
-      "type" : "move",
-      "startTime" : "20170407T111025+0800",
-      "endTime" : "20170407T111936+0800",
-      "activities" : [ {
-        "activity" : "cycling",
-        "group" : "cycling",
-        "manual" : false,
-        "startTime" : "20170407T111025+0800",
-        "endTime" : "20170407T111936+0800",
-        "duration" : 551.0,
-        "distance" : 958.0,
-        "calories" : 24
-      } ],
-      "lastUpdate" : "20170407T043819Z",
-      "date" : "20170407"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "MultiLineString",
-      "coordinates" : [ [ ] ]
-    },
-    "properties" : {
-      "type" : "move",
-      "startTime" : "20170407T112452+0800",
-      "endTime" : "20170407T114809+0800",
-      "activities" : [ {
-        "activity" : "cycling",
-        "group" : "cycling",
-        "manual" : false,
-        "startTime" : "20170407T112452+0800",
-        "endTime" : "20170407T114809+0800",
-        "duration" : 1397.0,
-        "distance" : 2630.0,
-        "calories" : 65
-      } ],
-      "lastUpdate" : "20170407T043829Z",
-      "date" : "20170407"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "MultiLineString",
-      "coordinates" : [ [ ] ]
-    },
-    "properties" : {
-      "type" : "move",
-      "startTime" : "20170407T115308+0800",
-      "endTime" : "20170407T123520+0800",
-      "activities" : [ {
-        "activity" : "cycling",
-        "group" : "cycling",
-        "manual" : false,
-        "startTime" : "20170407T115308+0800",
-        "endTime" : "20170407T123520+0800",
-        "duration" : 2532.0,
-        "distance" : 6480.0,
-        "calories" : 152
-      } ],
-      "lastUpdate" : "20170407T044551Z",
-      "date" : "20170407"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "MultiLineString",
-      "coordinates" : [ [ ] ]
-    },
-    "properties" : {
-      "type" : "move",
-      "startTime" : "20170407T131824+0800",
-      "endTime" : "20170407T135208+0800",
-      "activities" : [ {
-        "activity" : "cycling",
-        "group" : "cycling",
-        "manual" : false,
-        "startTime" : "20170407T131824+0800",
-        "endTime" : "20170407T135208+0800",
-        "duration" : 2024.0,
-        "distance" : 4806.0,
-        "calories" : 114
-      } ],
-      "lastUpdate" : "20170407T093756Z",
-      "date" : "20170407"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "MultiLineString",
-      "coordinates" : [ [ ] ]
-    },
-    "properties" : {
-      "type" : "move",
-      "startTime" : "20170407T140503+0800",
-      "endTime" : "20170407T143507+0800",
-      "activities" : [ {
-        "activity" : "cycling",
-        "group" : "cycling",
-        "manual" : false,
-        "startTime" : "20170407T140503+0800",
-        "endTime" : "20170407T143507+0800",
-        "duration" : 1804.0,
-        "distance" : 6076.0,
-        "calories" : 138
-      } ],
-      "lastUpdate" : "20170407T093801Z",
-      "date" : "20170407"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "MultiLineString",
-      "coordinates" : [ [ ] ]
-    },
-    "properties" : {
-      "type" : "move",
-      "startTime" : "20170407T144022+0800",
-      "endTime" : "20170407T150825+0800",
-      "activities" : [ {
-        "activity" : "cycling",
-        "group" : "cycling",
-        "manual" : false,
-        "startTime" : "20170407T144022+0800",
-        "endTime" : "20170407T150825+0800",
-        "duration" : 1683.0,
-        "distance" : 3994.0,
-        "calories" : 95
-      } ],
-      "lastUpdate" : "20170407T093735Z",
-      "date" : "20170407"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "MultiLineString",
-      "coordinates" : [ [ ] ]
-    },
-    "properties" : {
-      "type" : "move",
-      "startTime" : "20170407T151049+0800",
-      "endTime" : "20170407T151259+0800",
-      "activities" : [ {
-        "activity" : "cycling",
-        "group" : "cycling",
-        "manual" : false,
-        "startTime" : "20170407T151049+0800",
-        "endTime" : "20170407T151259+0800",
-        "duration" : 130.0,
-        "distance" : 236.0,
-        "calories" : 6
-      } ],
-      "lastUpdate" : "20170407T093823Z",
-      "date" : "20170407"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "MultiLineString",
-      "coordinates" : [ [ ] ]
-    },
-    "properties" : {
-      "type" : "move",
-      "startTime" : "20170407T153355+0800",
-      "endTime" : "20170407T154221+0800",
-      "activities" : [ {
-        "activity" : "cycling",
-        "group" : "cycling",
-        "manual" : false,
-        "startTime" : "20170407T153355+0800",
-        "endTime" : "20170407T154221+0800",
-        "duration" : 506.0,
-        "distance" : 1607.0,
-        "calories" : 37
-      } ],
-      "lastUpdate" : "20170407T082330Z",
-      "date" : "20170407"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "MultiLineString",
-      "coordinates" : [ [ ] ]
-    },
-    "properties" : {
-      "type" : "move",
-      "startTime" : "20170407T154521+0800",
-      "endTime" : "20170407T161011+0800",
-      "activities" : [ {
-        "activity" : "cycling",
-        "group" : "cycling",
-        "manual" : false,
-        "startTime" : "20170407T154521+0800",
-        "endTime" : "20170407T161011+0800",
-        "duration" : 1490.0,
-        "distance" : 3891.0,
-        "calories" : 91
-      } ],
-      "lastUpdate" : "20170407T082330Z",
-      "date" : "20170407"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "MultiLineString",
-      "coordinates" : [ [ ] ]
-    },
-    "properties" : {
-      "type" : "move",
-      "startTime" : "20170407T161530+0800",
-      "endTime" : "20170407T165721+0800",
-      "activities" : [ {
-        "activity" : "cycling",
-        "group" : "cycling",
-        "manual" : false,
-        "startTime" : "20170407T161530+0800",
-        "endTime" : "20170407T165721+0800",
-        "duration" : 2511.0,
-        "distance" : 7703.0,
-        "calories" : 176
-      } ],
-      "lastUpdate" : "20170407T093827Z",
-      "date" : "20170407"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "MultiLineString",
-      "coordinates" : [ [ ] ]
-    },
-    "properties" : {
-      "type" : "move",
-      "startTime" : "20170407T170149+0800",
-      "endTime" : "20170407T173353+0800",
-      "activities" : [ {
-        "activity" : "cycling",
-        "group" : "cycling",
-        "manual" : false,
-        "startTime" : "20170407T170149+0800",
-        "endTime" : "20170407T173353+0800",
-        "duration" : 1924.0,
-        "distance" : 4998.0,
-        "calories" : 117
-      } ],
-      "lastUpdate" : "20170407T093942Z",
-      "date" : "20170407"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "MultiLineString",
-      "coordinates" : [ [ ] ]
-    },
-    "properties" : {
-      "type" : "move",
-      "startTime" : "20170407T173618+0800",
-      "endTime" : "20170407T174101+0800",
-      "activities" : [ {
-        "activity" : "walking",
-        "group" : "walking",
-        "manual" : false,
-        "startTime" : "20170407T173618+0800",
-        "endTime" : "20170407T174101+0800",
-        "duration" : 283.0,
-        "distance" : 238.0,
-        "steps" : 401,
-        "calories" : 12
-      } ],
-      "lastUpdate" : "20170407T111033Z",
-      "date" : "20170407"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "MultiLineString",
-      "coordinates" : [ [ ] ]
-    },
-    "properties" : {
-      "type" : "move",
-      "startTime" : "20170407T195343+0800",
-      "endTime" : "20170407T195746+0800",
-      "activities" : [ {
-        "activity" : "walking",
-        "group" : "walking",
-        "manual" : false,
-        "startTime" : "20170407T195343+0800",
-        "endTime" : "20170407T195745+0800",
-        "duration" : 242.0,
-        "distance" : 191.0,
-        "steps" : 349,
-        "calories" : 9
-      } ],
-      "lastUpdate" : "20170407T124230Z",
-      "date" : "20170407"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "MultiLineString",
-      "coordinates" : [ [ ] ]
-    },
-    "properties" : {
-      "type" : "move",
-      "startTime" : "20170407T203818+0800",
-      "endTime" : "20170407T205441+0800",
-      "activities" : [ {
-        "activity" : "walking",
-        "group" : "walking",
-        "manual" : false,
-        "startTime" : "20170407T203818+0800",
-        "endTime" : "20170407T205440+0800",
-        "duration" : 982.0,
-        "distance" : 853.0,
-        "steps" : 1271,
-        "calories" : 42
-      } ],
-      "lastUpdate" : "20170407T131632Z",
-      "date" : "20170407"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "MultiLineString",
-      "coordinates" : [ [ ] ]
-    },
-    "properties" : {
-      "type" : "move",
-      "startTime" : "20170407T222157+0800",
-      "endTime" : "20170407T223406+0800",
-      "activities" : [ {
-        "activity" : "walking",
-        "group" : "walking",
-        "manual" : false,
-        "startTime" : "20170407T222157+0800",
-        "endTime" : "20170407T223406+0800",
-        "duration" : 729.0,
-        "distance" : 871.0,
-        "steps" : 1174,
-        "calories" : 43
-      } ],
-      "lastUpdate" : "20170407T144651Z",
-      "date" : "20170407"
-    }
-  } ]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.77205,
+                    27.679459
+                ]
+            },
+            "properties": {
+                "name": "Place in Zuosuo",
+                "styleUrl": "#place_unknown",
+                "styleHash": "-6031410d",
+                "description": "<p>17-4-7<br/> AM12:00 to AM7:57<br/> 7:57 hours</p>",
+                "timespan": {
+                    "begin": "2017-04-07T00:00:01+08:00",
+                    "end": "2017-04-07T07:57:13+08:00"
+                }
+            },
+            "id": "1491494400000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": []
+            },
+            "properties": {
+                "name": "Walking",
+                "styleUrl": "#activity_walking",
+                "styleHash": "-3d683249",
+                "description": "<p>17-4-7<br/> AM7:57 to AM8:15<br/> 17 min, 0.7 mi, 1,463 steps, 56 Cal</p>",
+                "timespan": {
+                    "begin": "2017-04-07T07:57:14+08:00",
+                    "end": "2017-04-07T08:15:03+08:00"
+                },
+                "stroke": "#00d55a",
+                "stroke-opacity": 0.8745098039215686,
+                "stroke-width": 6
+            },
+            "id": "1491523034000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.76909,
+                    27.683924
+                ]
+            },
+            "properties": {
+                "name": "Place in Zuosuo",
+                "styleUrl": "#place_unknown",
+                "styleHash": "-6031410d",
+                "description": "<p>17-4-7<br/> AM8:15 to AM8:19<br/> 4 min</p>",
+                "timespan": {
+                    "begin": "2017-04-07T08:15:04+08:00",
+                    "end": "2017-04-07T08:19:13+08:00"
+                }
+            },
+            "id": "1491524103000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": []
+            },
+            "properties": {
+                "name": "Walking",
+                "styleUrl": "#activity_walking",
+                "styleHash": "-3d683249",
+                "description": "<p>17-4-7<br/> AM8:19 to AM8:21<br/> 2 min, 0.1 mi, 266 steps, 10 Cal</p>",
+                "timespan": {
+                    "begin": "2017-04-07T08:19:14+08:00",
+                    "end": "2017-04-07T08:21:57+08:00"
+                },
+                "stroke": "#00d55a",
+                "stroke-opacity": 0.8745098039215686,
+                "stroke-width": 6
+            },
+            "id": "1491524354000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.77076,
+                    27.683186
+                ]
+            },
+            "properties": {
+                "name": "Place in Zuosuo",
+                "styleUrl": "#place_unknown",
+                "styleHash": "-6031410d",
+                "description": "<p>17-4-7<br/> AM8:21 to AM8:48<br/> 26 min</p>",
+                "timespan": {
+                    "begin": "2017-04-07T08:21:58+08:00",
+                    "end": "2017-04-07T08:48:30+08:00"
+                }
+            },
+            "id": "1491524517000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": []
+            },
+            "properties": {
+                "name": "Cycling",
+                "styleUrl": "#activity_cycling",
+                "styleHash": "-1a865855",
+                "description": "<p>17-4-7<br/> AM8:48 to AM10:06<br/> 1:18 hours, 5.7 mi, 225 Cal</p>",
+                "timespan": {
+                    "begin": "2017-04-07T08:48:31+08:00",
+                    "end": "2017-04-07T10:06:52+08:00"
+                },
+                "stroke": "#00cdec",
+                "stroke-opacity": 0.8745098039215686,
+                "stroke-width": 6
+            },
+            "id": "1491526111000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.74675,
+                    27.731586
+                ]
+            },
+            "properties": {
+                "name": "Place in Zuosuo",
+                "styleUrl": "#place_unknown",
+                "styleHash": "-6031410d",
+                "description": "<p>17-4-7<br/> AM10:06 to AM10:11<br/> 4 min</p>",
+                "timespan": {
+                    "begin": "2017-04-07T10:06:54+08:00",
+                    "end": "2017-04-07T10:11:51+08:00"
+                }
+            },
+            "id": "1491530813000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": []
+            },
+            "properties": {
+                "name": "Cycling",
+                "styleUrl": "#activity_cycling",
+                "styleHash": "-1a865855",
+                "description": "<p>17-4-7<br/> AM10:11 to AM11:05<br/> 54 min, 3.5 mi, 139 Cal</p>",
+                "timespan": {
+                    "begin": "2017-04-07T10:11:52+08:00",
+                    "end": "2017-04-07T11:05:55+08:00"
+                },
+                "stroke": "#00cdec",
+                "stroke-opacity": 0.8745098039215686,
+                "stroke-width": 6
+            },
+            "id": "1491531112000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.7622,
+                    27.738783
+                ]
+            },
+            "properties": {
+                "name": "Place in Zuosuo",
+                "styleUrl": "#place_unknown",
+                "styleHash": "-6031410d",
+                "description": "<p>17-4-7<br/> AM11:05 to AM11:10<br/> 4 min</p>",
+                "timespan": {
+                    "begin": "2017-04-07T11:05:57+08:00",
+                    "end": "2017-04-07T11:10:24+08:00"
+                }
+            },
+            "id": "1491534356000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": []
+            },
+            "properties": {
+                "name": "Cycling",
+                "styleUrl": "#activity_cycling",
+                "styleHash": "-1a865855",
+                "description": "<p>17-4-7<br/> AM11:10 to AM11:19<br/> 9 min, 0.6 mi, 24 Cal</p>",
+                "timespan": {
+                    "begin": "2017-04-07T11:10:25+08:00",
+                    "end": "2017-04-07T11:19:36+08:00"
+                },
+                "stroke": "#00cdec",
+                "stroke-opacity": 0.8745098039215686,
+                "stroke-width": 6
+            },
+            "id": "1491534625000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.76882,
+                    27.743159
+                ]
+            },
+            "properties": {
+                "name": "Place in Zuosuo",
+                "styleUrl": "#place_unknown",
+                "styleHash": "-6031410d",
+                "description": "<p>17-4-7<br/> AM11:19 to AM11:24<br/> 5 min</p>",
+                "timespan": {
+                    "begin": "2017-04-07T11:19:38+08:00",
+                    "end": "2017-04-07T11:24:51+08:00"
+                }
+            },
+            "id": "1491535177000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": []
+            },
+            "properties": {
+                "name": "Cycling",
+                "styleUrl": "#activity_cycling",
+                "styleHash": "-1a865855",
+                "description": "<p>17-4-7<br/> AM11:24 to AM11:48<br/> 23 min, 1.6 mi, 65 Cal</p>",
+                "timespan": {
+                    "begin": "2017-04-07T11:24:52+08:00",
+                    "end": "2017-04-07T11:48:09+08:00"
+                },
+                "stroke": "#00cdec",
+                "stroke-opacity": 0.8745098039215686,
+                "stroke-width": 6
+            },
+            "id": "1491535492000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.78126,
+                    27.744889
+                ]
+            },
+            "properties": {
+                "name": "Place in Zuosuo",
+                "styleUrl": "#place_unknown",
+                "styleHash": "-6031410d",
+                "description": "<p>17-4-7<br/> AM11:48 to AM11:53<br/> 4 min</p>",
+                "timespan": {
+                    "begin": "2017-04-07T11:48:11+08:00",
+                    "end": "2017-04-07T11:53:07+08:00"
+                }
+            },
+            "id": "1491536890000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": []
+            },
+            "properties": {
+                "name": "Cycling",
+                "styleUrl": "#activity_cycling",
+                "styleHash": "-1a865855",
+                "description": "<p>17-4-7<br/> AM11:53 to PM12:35<br/> 42 min, 4 mi, 152 Cal</p>",
+                "timespan": {
+                    "begin": "2017-04-07T11:53:08+08:00",
+                    "end": "2017-04-07T12:35:20+08:00"
+                },
+                "stroke": "#00cdec",
+                "stroke-opacity": 0.8745098039215686,
+                "stroke-width": 6
+            },
+            "id": "1491537188000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.83518,
+                    27.735987
+                ]
+            },
+            "properties": {
+                "name": "Place in Zuosuo",
+                "styleUrl": "#place_unknown",
+                "styleHash": "-6031410d",
+                "description": "<p>17-4-7<br/> PM12:35 to PM1:18<br/> 43 min</p>",
+                "timespan": {
+                    "begin": "2017-04-07T12:35:22+08:00",
+                    "end": "2017-04-07T13:18:23+08:00"
+                }
+            },
+            "id": "1491539721000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": []
+            },
+            "properties": {
+                "name": "Cycling",
+                "styleUrl": "#activity_cycling",
+                "styleHash": "-1a865855",
+                "description": "<p>17-4-7<br/> PM1:18 to PM1:52<br/> 33 min, 3 mi, 114 Cal</p>",
+                "timespan": {
+                    "begin": "2017-04-07T13:18:24+08:00",
+                    "end": "2017-04-07T13:52:08+08:00"
+                },
+                "stroke": "#00cdec",
+                "stroke-opacity": 0.8745098039215686,
+                "stroke-width": 6
+            },
+            "id": "1491542304000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.80746,
+                    27.710862
+                ]
+            },
+            "properties": {
+                "name": "Place in Zuosuo",
+                "styleUrl": "#place_unknown",
+                "styleHash": "-6031410d",
+                "description": "<p>17-4-7<br/> PM1:52 to PM2:05<br/> 12 min</p> <p>Walking 4 min, 0.2 mi, 419 steps, 16 Cal</p>",
+                "timespan": {
+                    "begin": "2017-04-07T13:52:10+08:00",
+                    "end": "2017-04-07T14:05:02+08:00"
+                }
+            },
+            "id": "1491544329000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": []
+            },
+            "properties": {
+                "name": "Cycling",
+                "styleUrl": "#activity_cycling",
+                "styleHash": "-1a865855",
+                "description": "<p>17-4-7<br/> PM2:05 to PM2:35<br/> 30 min, 3.8 mi, 138 Cal</p>",
+                "timespan": {
+                    "begin": "2017-04-07T14:05:03+08:00",
+                    "end": "2017-04-07T14:35:07+08:00"
+                },
+                "stroke": "#00cdec",
+                "stroke-opacity": 0.8745098039215686,
+                "stroke-width": 6
+            },
+            "id": "1491545103000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.84671,
+                    27.732332
+                ]
+            },
+            "properties": {
+                "name": "Place in Zuosuo",
+                "styleUrl": "#place_unknown",
+                "styleHash": "-6031410d",
+                "description": "<p>17-4-7<br/> PM2:35 to PM2:40<br/> 5 min</p>",
+                "timespan": {
+                    "begin": "2017-04-07T14:35:08+08:00",
+                    "end": "2017-04-07T14:40:21+08:00"
+                }
+            },
+            "id": "1491546907000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": []
+            },
+            "properties": {
+                "name": "Cycling",
+                "styleUrl": "#activity_cycling",
+                "styleHash": "-1a865855",
+                "description": "<p>17-4-7<br/> PM2:40 to PM3:08<br/> 28 min, 2.5 mi, 95 Cal</p>",
+                "timespan": {
+                    "begin": "2017-04-07T14:40:22+08:00",
+                    "end": "2017-04-07T15:08:25+08:00"
+                },
+                "stroke": "#00cdec",
+                "stroke-opacity": 0.8745098039215686,
+                "stroke-width": 6
+            },
+            "id": "1491547222000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.87545,
+                    27.713783
+                ]
+            },
+            "properties": {
+                "name": "Place in Zuosuo",
+                "styleUrl": "#place_unknown",
+                "styleHash": "-6031410d",
+                "description": "<p>17-4-7<br/> PM3:08 to PM3:10<br/> 2 min</p>",
+                "timespan": {
+                    "begin": "2017-04-07T15:08:27+08:00",
+                    "end": "2017-04-07T15:10:48+08:00"
+                }
+            },
+            "id": "1491548906000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": []
+            },
+            "properties": {
+                "name": "Cycling",
+                "styleUrl": "#activity_cycling",
+                "styleHash": "-1a865855",
+                "description": "<p>17-4-7<br/> PM3:10 to PM3:12<br/> 2 min, 0.1 mi, 6 Cal</p>",
+                "timespan": {
+                    "begin": "2017-04-07T15:10:49+08:00",
+                    "end": "2017-04-07T15:12:59+08:00"
+                },
+                "stroke": "#00cdec",
+                "stroke-opacity": 0.8745098039215686,
+                "stroke-width": 6
+            },
+            "id": "1491549049000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.87617,
+                    27.711969
+                ]
+            },
+            "properties": {
+                "name": "Place in Zuosuo",
+                "styleUrl": "#place_unknown",
+                "styleHash": "-6031410d",
+                "description": "<p>17-4-7<br/> PM3:13 to PM3:33<br/> 20 min</p> <p>Walking 4 min, 0.2 mi, 405 steps, 15 Cal</p>",
+                "timespan": {
+                    "begin": "2017-04-07T15:13:01+08:00",
+                    "end": "2017-04-07T15:33:54+08:00"
+                }
+            },
+            "id": "1491549180000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": []
+            },
+            "properties": {
+                "name": "Cycling",
+                "styleUrl": "#activity_cycling",
+                "styleHash": "-1a865855",
+                "description": "<p>17-4-7<br/> PM3:33 to PM3:42<br/> 8 min, 1 mi, 37 Cal</p>",
+                "timespan": {
+                    "begin": "2017-04-07T15:33:55+08:00",
+                    "end": "2017-04-07T15:42:21+08:00"
+                },
+                "stroke": "#00cdec",
+                "stroke-opacity": 0.8745098039215686,
+                "stroke-width": 6
+            },
+            "id": "1491550435000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.86499,
+                    27.704028
+                ]
+            },
+            "properties": {
+                "name": "Place in Zuosuo",
+                "styleUrl": "#place_unknown",
+                "styleHash": "-6031410d",
+                "description": "<p>17-4-7<br/> PM3:42 to PM3:45<br/> 2 min</p>",
+                "timespan": {
+                    "begin": "2017-04-07T15:42:23+08:00",
+                    "end": "2017-04-07T15:45:20+08:00"
+                }
+            },
+            "id": "1491550942000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": []
+            },
+            "properties": {
+                "name": "Cycling",
+                "styleUrl": "#activity_cycling",
+                "styleHash": "-1a865855",
+                "description": "<p>17-4-7<br/> PM3:45 to PM4:10<br/> 24 min, 2.4 mi, 91 Cal</p>",
+                "timespan": {
+                    "begin": "2017-04-07T15:45:21+08:00",
+                    "end": "2017-04-07T16:10:11+08:00"
+                },
+                "stroke": "#00cdec",
+                "stroke-opacity": 0.8745098039215686,
+                "stroke-width": 6
+            },
+            "id": "1491551121000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.84915,
+                    27.677836
+                ]
+            },
+            "properties": {
+                "name": "Place in Zuosuo",
+                "styleUrl": "#place_unknown",
+                "styleHash": "-6031410d",
+                "description": "<p>17-4-7<br/> PM4:10 to PM4:15<br/> 5 min</p>",
+                "timespan": {
+                    "begin": "2017-04-07T16:10:13+08:00",
+                    "end": "2017-04-07T16:15:29+08:00"
+                }
+            },
+            "id": "1491552612000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": []
+            },
+            "properties": {
+                "name": "Cycling",
+                "styleUrl": "#activity_cycling",
+                "styleHash": "-1a865855",
+                "description": "<p>17-4-7<br/> PM4:15 to PM4:57<br/> 41 min, 4.8 mi, 176 Cal</p>",
+                "timespan": {
+                    "begin": "2017-04-07T16:15:30+08:00",
+                    "end": "2017-04-07T16:57:21+08:00"
+                },
+                "stroke": "#00cdec",
+                "stroke-opacity": 0.8745098039215686,
+                "stroke-width": 6
+            },
+            "id": "1491552930000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.78208,
+                    27.662357
+                ]
+            },
+            "properties": {
+                "name": "Place in Zuosuo",
+                "styleUrl": "#place_unknown",
+                "styleHash": "-6031410d",
+                "description": "<p>17-4-7<br/> PM4:57 to PM5:01<br/> 4 min</p>",
+                "timespan": {
+                    "begin": "2017-04-07T16:57:22+08:00",
+                    "end": "2017-04-07T17:01:48+08:00"
+                }
+            },
+            "id": "1491555441000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": []
+            },
+            "properties": {
+                "name": "Cycling",
+                "styleUrl": "#activity_cycling",
+                "styleHash": "-1a865855",
+                "description": "<p>17-4-7<br/> PM5:01 to PM5:33<br/> 32 min, 3.1 mi, 117 Cal</p>",
+                "timespan": {
+                    "begin": "2017-04-07T17:01:49+08:00",
+                    "end": "2017-04-07T17:33:53+08:00"
+                },
+                "stroke": "#00cdec",
+                "stroke-opacity": 0.8745098039215686,
+                "stroke-width": 6
+            },
+            "id": "1491555709000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.77105,
+                    27.68296
+                ]
+            },
+            "properties": {
+                "name": "Place in Zuosuo",
+                "styleUrl": "#place_unknown",
+                "styleHash": "-6031410d",
+                "description": "<p>17-4-7<br/> PM5:33 to PM5:36<br/> 2 min</p>",
+                "timespan": {
+                    "begin": "2017-04-07T17:33:55+08:00",
+                    "end": "2017-04-07T17:36:17+08:00"
+                }
+            },
+            "id": "1491557634000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": []
+            },
+            "properties": {
+                "name": "Walking",
+                "styleUrl": "#activity_walking",
+                "styleHash": "-3d683249",
+                "description": "<p>17-4-7<br/> PM5:36 to PM5:41<br/> 4 min, 0.1 mi, 401 steps, 12 Cal</p>",
+                "timespan": {
+                    "begin": "2017-04-07T17:36:18+08:00",
+                    "end": "2017-04-07T17:41:01+08:00"
+                },
+                "stroke": "#00d55a",
+                "stroke-opacity": 0.8745098039215686,
+                "stroke-width": 6
+            },
+            "id": "1491557778000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.76909,
+                    27.683924
+                ]
+            },
+            "properties": {
+                "name": "Place in Zuosuo",
+                "styleUrl": "#place_unknown",
+                "styleHash": "-6031410d",
+                "description": "<p>17-4-7<br/> PM5:41 to PM7:53<br/> 2:12 hours</p> <p>Walking 4 min, 0.2 mi, 361 steps, 13 Cal</p>",
+                "timespan": {
+                    "begin": "2017-04-07T17:41:02+08:00",
+                    "end": "2017-04-07T19:53:42+08:00"
+                }
+            },
+            "id": "1491558061000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": []
+            },
+            "properties": {
+                "name": "Walking",
+                "styleUrl": "#activity_walking",
+                "styleHash": "-3d683249",
+                "description": "<p>17-4-7<br/> PM7:53 to PM7:57<br/> 4 min, 0.1 mi, 349 steps, 9 Cal</p>",
+                "timespan": {
+                    "begin": "2017-04-07T19:53:43+08:00",
+                    "end": "2017-04-07T19:57:45+08:00"
+                },
+                "stroke": "#00d55a",
+                "stroke-opacity": 0.8745098039215686,
+                "stroke-width": 6
+            },
+            "id": "1491566023000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.77044,
+                    27.68339
+                ]
+            },
+            "properties": {
+                "name": "Place in Zuosuo",
+                "styleUrl": "#place_unknown",
+                "styleHash": "-6031410d",
+                "description": "<p>17-4-7<br/> PM7:57 to PM8:38<br/> 40 min</p>",
+                "timespan": {
+                    "begin": "2017-04-07T19:57:47+08:00",
+                    "end": "2017-04-07T20:38:17+08:00"
+                }
+            },
+            "id": "1491566266000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": []
+            },
+            "properties": {
+                "name": "Walking",
+                "styleUrl": "#activity_walking",
+                "styleHash": "-3d683249",
+                "description": "<p>17-4-7<br/> PM8:38 to PM8:54<br/> 16 min, 0.5 mi, 1,271 steps, 42 Cal</p>",
+                "timespan": {
+                    "begin": "2017-04-07T20:38:18+08:00",
+                    "end": "2017-04-07T20:54:40+08:00"
+                },
+                "stroke": "#00d55a",
+                "stroke-opacity": 0.8745098039215686,
+                "stroke-width": 6
+            },
+            "id": "1491568698000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.76909,
+                    27.683924
+                ]
+            },
+            "properties": {
+                "name": "Place in Zuosuo",
+                "styleUrl": "#place_unknown",
+                "styleHash": "-6031410d",
+                "description": "<p>17-4-7<br/> PM8:54 to PM10:21<br/> 1:27 hours</p>",
+                "timespan": {
+                    "begin": "2017-04-07T20:54:42+08:00",
+                    "end": "2017-04-07T22:21:56+08:00"
+                }
+            },
+            "id": "1491569681000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": []
+            },
+            "properties": {
+                "name": "Walking",
+                "styleUrl": "#activity_walking",
+                "styleHash": "-3d683249",
+                "description": "<p>17-4-7<br/> PM10:21 to PM10:34<br/> 12 min, 0.5 mi, 1,174 steps, 43 Cal</p>",
+                "timespan": {
+                    "begin": "2017-04-07T22:21:57+08:00",
+                    "end": "2017-04-07T22:34:06+08:00"
+                },
+                "stroke": "#00d55a",
+                "stroke-opacity": 0.8745098039215686,
+                "stroke-width": 6
+            },
+            "id": "1491574917000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.76909,
+                    27.683924
+                ]
+            },
+            "properties": {
+                "name": "Place in Zuosuo",
+                "styleUrl": "#place_unknown",
+                "styleHash": "-6031410d",
+                "description": "<p>17-4-7<br/> PM10:34 to AM12:00<br/> 1:25 hours</p>",
+                "timespan": {
+                    "begin": "2017-04-07T22:34:07+08:00",
+                    "end": "2017-04-07T23:59:59+08:00"
+                }
+            },
+            "id": "1491575646000"
+        }
+    ]
 }
